@@ -1,5 +1,5 @@
 ## Pterodactyl API
-This project provides a streamlined and efficient way to interact with the [Pterodactyl Panel API](https://pterodactyl.io/). It allows developers to manage servers, users, and other resources using Python.
+This project provides a streamlined and efficient way to interact with the [Pterodactyl Panel API](https://pterodactyl.io/). It allows developers to manage servers and other resources using Python.
 ## Features
 - Authentication with API keys.
 - Supports both application-level and client-level APIs.
