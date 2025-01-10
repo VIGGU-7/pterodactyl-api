@@ -21,6 +21,13 @@ This project provides a streamlined and efficient way to interact with the [Pter
 ## Acknowledgements
 - [pterodactyl](pterodactyl.io)
 - [requests library](https://pypi.org/project/requests/)
+
+## sample output
+<img src="https://github.com/user-attachments/assets/58f16aec-0eb7-4464-bbbe-6adae403e44f" alt="Screenshot" width="500">
+
+![Screenshot 2025-01-10 222552](https://github.com/user-attachments/assets/d3e03d28-c9b1-43fe-9434-21754ee7d82b)
+
+
 ## Credits
 This project was inspired by and integrates with the Pterodactyl Panel. Special thanks go to [FlashNodes](flashnodes.in) for providing affordable and reliable hosting solutions that make managing Pterodactyl so much easier. Their support and services have been instrumental in developing and testing this API project.
   
