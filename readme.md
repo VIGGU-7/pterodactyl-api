@@ -29,6 +29,6 @@ This project provides a streamlined and efficient way to interact with the [Pter
 
 
 ## Credits
-This project was inspired by and integrates with the Pterodactyl Panel. Special thanks go to [FlashNodes](flashnodes.in) for providing affordable and reliable hosting solutions that make managing Pterodactyl so much easier. Their support and services have been instrumental in developing and testing this API project.
+This project was inspired by and integrates with the Pterodactyl Panel. Special thanks go to [FlashNodes](https://flashnodes.in) for providing affordable and reliable hosting solutions that make managing Pterodactyl so much easier. Their support and services have been instrumental in developing and testing this API project.
   
 Let me know if you’d like additional sections or features in the README!
